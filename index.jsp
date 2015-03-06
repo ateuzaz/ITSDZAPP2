@@ -54,7 +54,7 @@
 				<tbody>
 					<tr>
 				    	<td valign="middle" width="50%"></td>
-				    	<td align="right" valign="middle" width="50%"> desdePROMO WINSCP 222 333 ZAZUETA ftpIPHONE2 PADILLA JESUS ftpIphone hola222 desde ftp<strong>rows</strong></td>
+				    	<td align="right" valign="middle" width="50%">GIT GIT GIT GIT desdePROMO WINSCP 222 333 ZAZUETA ftpIPHONE2 PADILLA JESUS ftpIphone hola222 desde ftp<strong>rows</strong></td>
 				  </tr>
 				</tbody>
 			</table>
